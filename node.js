@@ -1,1 +1,1 @@
-
+import chalk from 'chalk'; console.log(chalk.blue('Marion'),chalk.red('Erwan'),chalk.yellow('Julien'),chalk.green('Jean-baptiste'));
